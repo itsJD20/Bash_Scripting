@@ -1,7 +1,7 @@
 #! /bin/bash
 a=10
 
-if [ $a -eq 9 ]
+if [ $a != 9 ]
 then
 echo "Give me 10 taka"
 else
