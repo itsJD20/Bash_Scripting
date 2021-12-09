@@ -10,7 +10,8 @@ then
     echo "The is acceptable"
     else
     echo "The is not acceptable"
-    
+    echo "Give any feedback. To quit press crtl+d"
+    cat >> test.txt  
     fi
 else
 echo "The number is already acceptable"
