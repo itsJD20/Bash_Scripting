@@ -8,3 +8,4 @@ echo "scale=2;$a / $b" | bc
 
 echo "scale=2;sqrt($a)"| bc -l
 echo "scale=2;3^3"| bc -l
+echo "scale=2;$b^2"| bc -l
